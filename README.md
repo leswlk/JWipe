@@ -16,7 +16,7 @@ Project consists of a simple Bash script that will scan IP address from the firs
 - <b>Microsoft Azure</b>
 
 
-<h2>Program walk-through:</h2>
+<h2>Program Walkthrough:</h2>
 
 <p align="center">
 Launch the utility: <br/>
